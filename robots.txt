@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeghooxua.zhanghao90.cn/sitemap.xml
